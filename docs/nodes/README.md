@@ -14,6 +14,7 @@ This section provides documents on how to build and maintain an AvalancheGo node
 | [**Set Up an Avalanche Node with Amazon Web Services (AWS)**](./build/setting-up-an-avalanche-node-with-amazon-web-services-aws.md) | Create a node that runs on AWS |
 | [**Set Up an Avalanche Node with Microsoft Azure**](./build/set-up-an-avalanche-node-with-microsoft-azure.md) | Create a node that runs on Microsoft Azure |
 | [**Set Up an Avalanche Node with Google GCP**](./build/set-up-an-avalanche-node-with-google-cloud-platform.md) | Create a node that runs on Google GCP |
+| [**Set Up an Avalanche Node with NOWNodes**](https://nownodes.io/nodes) | Create a node that runs NOWNodes.io |
 
 
 ## Maintain
